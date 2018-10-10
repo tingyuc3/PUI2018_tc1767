@@ -1,7 +1,11 @@
-This is for HW5. I did Assignment 1, 3 and 4 on my own and Assignment 2 with Yuxuan Wang(yw1665). 
+This is for HW5. I did Assignment 1, 3 and 4 on my own and Assignment 2 with Yuxuan Wang(yw1665).  
+
 For Assignment 1, I inspected um367's Assignment 2 for HW4.
+
 For Assignemnt 2, see below.
+
 For Assignment 3, I use the z-test funciton and chi-square function to reproduce the analysis.
+
 For Assignment 4, I use citibike data from 201412 and 201507 and run three tests to assess correlation between trip duration of day time and night time. 
 
 
