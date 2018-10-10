@@ -10,6 +10,7 @@ For Assignment 4, I use citibike data from 201412 and 201507 and run three tests
 
 
 
+
 For Assignment 2
 
  | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
