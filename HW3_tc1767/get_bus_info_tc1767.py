@@ -20,6 +20,9 @@ data = json.loads(data)
 length = len(data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
 
 file = open(csvname,'w')
+#'w' is creating a file to write
+#'a' is append
+#'r' is read
 
 file.write('Latitude, Longitude,Stop Name,Stop Status\n')
 for i in range(length):
