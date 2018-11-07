@@ -6,6 +6,6 @@ Please see the plot below.
 
 ![Alt text](Figure.png)
 
-Assignment2
+Assignment2 - Miniproject on Citibike Data
 
 Link to my AUTHOREA: https://www.authorea.com/users/249591/articles/335906-title
