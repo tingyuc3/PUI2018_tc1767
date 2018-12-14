@@ -1,0 +1,1 @@
+This is for HW12 and I finished both assignments by my own under instructions.
